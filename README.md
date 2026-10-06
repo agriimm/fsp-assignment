@@ -2,7 +2,7 @@
 
 **Name:** Agrim Mishra
 **Roll No.:** 13005324002
-**Course:** B.Tech, Electronics and Instrumentation Engineering (4th Semester)
+**Course:** B.Tech, Electronics and Instrumentation Engineering (5th Semester)
 
 
 ## About
